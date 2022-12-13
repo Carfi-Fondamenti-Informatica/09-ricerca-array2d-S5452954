@@ -1,1 +1,4 @@
-
+#ifndef ESERCITAZIONE_9_ESERCITAZIONE_9_H
+#define ESERCITAZIONE_9_ESERCITAZIONE_9_H
+int funzione (char elenco [10][20], char nome [20]);
+#endif //ESERCITAZIONE_9_ESERCITAZIONE_9_H
