@@ -1,4 +1,4 @@
-#include "esercitazione_9.h"
+#include "lib.h"
 #include "cstring"
 
 int funzione (char elenco [10][20], char nome[20]) {
