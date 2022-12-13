@@ -1,5 +1,5 @@
 #include <iostream>
-#include "esercitazione_9.h"
+#include "lib.h"
 using namespace std;
 
 
